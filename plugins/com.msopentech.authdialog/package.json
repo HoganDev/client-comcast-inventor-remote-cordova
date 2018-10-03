@@ -1,0 +1,65 @@
+{
+  "_from": "cordova-plugin-auth-dialog",
+  "_id": "cordova-plugin-auth-dialog@0.1.6",
+  "_inBundle": false,
+  "_integrity": "sha1-h5Ndpat+b+G+NNyWPCm4aF7AkPU=",
+  "_location": "/cordova-plugin-auth-dialog",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-auth-dialog",
+    "name": "cordova-plugin-auth-dialog",
+    "escapedName": "cordova-plugin-auth-dialog",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-auth-dialog/-/cordova-plugin-auth-dialog-0.1.6.tgz",
+  "_shasum": "87935da5ab7e6fe1be34dc963c29b8685ec090f5",
+  "_spec": "cordova-plugin-auth-dialog",
+  "_where": "/Users/matt/Documents/Gensler/hello",
+  "author": {
+    "name": "Michael Barchy, Microsoft Open Technologies"
+  },
+  "bugs": {
+    "url": "https://github.com/michael79bxl/cordova-plugin-auth-dialog/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-auth-dialog",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "Adds support for authentication dialogs into Apache Cordova.",
+  "homepage": "https://github.com/michael79bxl/cordova-plugin-auth-dialog#readme",
+  "keywords": [
+    "cordova",
+    "auth",
+    "dialog",
+    "basic",
+    "digest",
+    "ntml",
+    "inappbrowser",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "license": "BSD-Like",
+  "name": "cordova-plugin-auth-dialog",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael79bxl/cordova-plugin-auth-dialog.git"
+  },
+  "version": "0.1.6"
+}
